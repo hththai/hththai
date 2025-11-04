@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Huy Thai</h1>
+<h1 align="center">Hi 👋, I'm Hayden Thai</h1>
 <h3 align="center">A software engineer and data engineer.</h3>
 
 - 🌱 I’m currently learning **Blazor, microservice, gRPC, Go**
