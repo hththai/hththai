@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://hththai.github.io/publish/](https://hththai.github.io/publish/)
 
-- 📫 How to reach me **Huythaicmvn@gmail.com**
+- 📫 How to reach me **haydenthaicm@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
